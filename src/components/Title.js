@@ -4,7 +4,7 @@ import '../Title.css';
 function Title () {
     return(
         <div className="Title">
-            <h1>JAIYNsphere</h1>
+            <h1>JAIYNdotMAKE</h1>
         </div>
     )
 }

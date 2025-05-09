@@ -3,8 +3,7 @@ import BrainStorm from './components/BrainStorm.js';
 import FirstComponent from './components/FirstComponent.js';
 import Title from './components/Title.js';
 import { render } from 'react-dom';
-import HeroImage from './components/HeroImage.js';
-import Gallery from './components/Gallery.js';
+
 
 
 
@@ -24,7 +23,7 @@ function App() {
         {/* <HeroImage /> */}
         {/* <Gallery /> */}
   
-        <p> im jaiyn im still coding this site, but i need something for that'll satiate the archive </p>
+        <p> im jaiyn im still coding this site, but i need something for now that'll satiate the archive </p>
         <p> deploying to production as time goes</p>
         {/* <img src={lick} className="App-logo" alt="logo" /> */}
         {/* This is where all of the componenets will go  */}
