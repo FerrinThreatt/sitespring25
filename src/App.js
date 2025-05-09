@@ -24,7 +24,7 @@ function App() {
         {/* <Gallery /> */}
   
         <p> im jaiyn im still coding this site, but i need something for now that'll satiate the archive </p>
-        <p> deploying to production as time goes</p>
+        <p> deploying as time goes</p>
         {/* <img src={lick} className="App-logo" alt="logo" /> */}
         {/* This is where all of the componenets will go  */}
       
