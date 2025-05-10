@@ -2,7 +2,9 @@ import './App.css';
 import BrainStorm from './components/BrainStorm.js';
 import FirstComponent from './components/FirstComponent.js';
 import Title from './components/Title.js';
-import { render } from 'react-dom';
+import Works from './components/pages/Works';
+import Home from './components/pages/Home.js';
+import { Routes, Route } from 'react-router-dom';
 
 
 
@@ -11,6 +13,13 @@ function App() {
   return (
     <div className="App">
       <Title/>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="works" element={<Works />} />
+      </Routes>
+     
+     
+  
    
    
   <BrainStorm/>
@@ -24,7 +33,7 @@ function App() {
         {/* <Gallery /> */}
   
         <p> im jaiyn im still coding this site, but i need something for now that'll satiate the archive </p>
-        <p> deploying as time goes</p>
+        <p> updates as time goes</p>
         {/* <img src={lick} className="App-logo" alt="logo" /> */}
         {/* This is where all of the componenets will go  */}
       
@@ -36,6 +45,10 @@ function App() {
         >
           stream here
         </a>
+
+
+        <br></br>
+        <br></br>
 
       
 
