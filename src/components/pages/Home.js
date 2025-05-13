@@ -41,8 +41,17 @@ export default function Home() {
           rel="noopener noreferrer"
         >
          *this link changes from time to time*
-        </a>
-
+        </a><span>&nbsp;</span>
+        <br></br>
+        <br></br>
+        <a
+          className="App-link"
+          href="instagram.com/imjaiyn"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instgram
+        </a><span>&nbsp;</span>
         <br></br>
         <br></br>
 
