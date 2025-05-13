@@ -46,11 +46,11 @@ export default function Home() {
         <br></br>
         <a
           className="App-link"
-          href="instagram.com/imjaiyn"
+          href="https://www.instagram.com/imjaiyn/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Instgram
+          Instagram
         </a><span>&nbsp;</span>
         <br></br>
         <br></br>
