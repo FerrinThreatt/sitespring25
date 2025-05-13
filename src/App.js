@@ -4,6 +4,8 @@ import FirstComponent from './components/FirstComponent.js';
 import Title from './components/Title.js';
 import Works from './components/pages/Works';
 import Home from './components/pages/Home.js';
+import Ram from './components/pages/Ram.js';
+import Dates from './components/pages/Dates/Dates.js';
 import { Routes, Route } from 'react-router-dom';
 
 
@@ -15,41 +17,19 @@ function App() {
       <Title/>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="ram" element={<Ram />} />
         <Route path="works" element={<Works />} />
+        <Route path="dates" element={<Dates />} />
       </Routes>
      
      
   
    
    
-  <BrainStorm/>
+
 
       
-    
-        <FirstComponent/>
-    
- 
-        {/* <HeroImage /> */}
-        {/* <Gallery /> */}
   
-        <p> im jaiyn im still coding this site, but i need something for now that'll satiate the archive </p>
-        <p> updates as time goes</p>
-        {/* <img src={lick} className="App-logo" alt="logo" /> */}
-        {/* This is where all of the componenets will go  */}
-      
-        <a
-          className="App-link"
-          href="https://too.fm/8vrnjdk"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          stream here
-        </a>
-
-
-        <br></br>
-        <br></br>
-
       
 
 
