@@ -33,8 +33,8 @@ function Works() {
         
     <br></br>
     <FirstComponent/>
-    
-        <img src={sfpcscan1} className="sfpc" alt="logo" />
+    <br></br>
+        <img src={sfpcscan1} className="sfpc" alt="logo" />  
         <img src={sfpcscan2} className="sfpc" alt="logo" />
         <br></br>
     <video controls width="70%">

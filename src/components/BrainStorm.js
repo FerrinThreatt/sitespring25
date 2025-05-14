@@ -8,7 +8,7 @@ function BrainStorm(){
  
         <>
         <iframe
-    src="https://player.twitch.tv/?channel=jaiynx&parent=localhost"
+    src="https://player.twitch.tv/?channel=jaiynx&parent=https://jaiyn-red.vercel.app/"
     height="378"
     width="680"
     allowfullscreen>
@@ -17,7 +17,7 @@ function BrainStorm(){
      
             </>
     );
-}
+}  
 
 export default BrainStorm;
 
