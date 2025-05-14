@@ -36,6 +36,10 @@ body{
   height: 23vmin;
   pointer-events: none;
 }
+.days_5{
+  height: 65vmin;
+  pointer-events: none;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

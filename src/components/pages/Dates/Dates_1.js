@@ -10,7 +10,6 @@ import Home from '../Home';
 import { Routes, Route } from 'react-router-dom';
 import Works from '../Works';
 import Ram from '../Ram';
-import placeholder from '../../../placeholder.png'
 
 function Dates() {
   return (
@@ -33,7 +32,7 @@ function Dates() {
         <p style={{textAlign:'right'}}>Tuesday, May 13th &emsp;&emsp;</p>
         <img src={thought} className="days_5" alt="logo" /> <span>&nbsp;</span><br></br><br></br>
 
-        <video controls width="70%" poster="../../../placeholder.png">
+        <video controls width="70%">
              
               <source src={fools} type="video/mp4"
               />
