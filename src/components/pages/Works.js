@@ -14,7 +14,7 @@ import sfpcscan1 from '../../scan1sfpc.jpeg';
 import sfpcscan2 from '../../scan2sfpc.jpeg';
 
 import jaiynvideo from '../../JAIYN451DegreeShortTermFix.mp4';
-
+import FirstComponent from '../FirstComponent.js';
 
 function Works() {
   return (
@@ -32,6 +32,7 @@ function Works() {
 
         
     <br></br>
+    <FirstComponent/>
     
         <img src={sfpcscan1} className="sfpc" alt="logo" />
         <img src={sfpcscan2} className="sfpc" alt="logo" />
