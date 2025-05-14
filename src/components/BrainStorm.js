@@ -7,8 +7,12 @@ function BrainStorm(){
     return (
  
         <>
+         <script src="https://embed.twitch.tv/embed/v1.js"></script>
+ 
+ 
+
         <iframe
-    src="https://player.twitch.tv/?channel=jaiynx&parent=www.jaiyn-red.vercel.app&muted=true"
+    src="https://player.twitch.tv/?channel=jaiynx&parent=localhost&parent=jaiyn-red.vercel.app&muted=true"
     height="378"
     width="680"
     allowfullscreen>
