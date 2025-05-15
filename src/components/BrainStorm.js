@@ -13,7 +13,7 @@ function BrainStorm(){
 
         <iframe
     src="https://player.twitch.tv/?channel=jaiynx&parent=localhost&parent=jaiyn-red.vercel.app&muted=true"
-    height="578"
+    height="378"
     width="60%"
     allowfullscreen>
 </iframe> <br></br><br></br>
