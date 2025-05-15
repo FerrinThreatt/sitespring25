@@ -41,7 +41,14 @@ body{
   pointer-events: none;
 }
 .notes{
-  height: 57vmin;
+  height: 47vmin;
+  pointer-events: none;
+}
+.spills{
+  height: 50vmin;
+}
+.air{
+  height: 70vmin;
   pointer-events: none;
 }
 @media (prefers-reduced-motion: no-preference) {
