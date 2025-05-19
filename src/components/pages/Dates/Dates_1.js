@@ -32,7 +32,7 @@ function Dates() {
         <p style={{textAlign:'right'}}>Tuesday, May 13th &emsp;&emsp;</p>
         <img src={thought} className="days_5" alt="logo" /> <span>&nbsp;</span><br></br><br></br>
 
-        <video controls width="70%">
+        <video controls width="70%" poster="placeholder.png">
              
               <source src={fools} type="video/mp4"
               />

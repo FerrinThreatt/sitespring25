@@ -1,5 +1,6 @@
 body{
   background-color: #F8BBD0;
+  /* background-image: url('flowers.JPG'); */
 }
 .App {
   text-align: center;
@@ -18,37 +19,41 @@ body{
 
 
 .days_1{
-  height: 25vmin;
+  height: 57vmin;
   pointer-events: none;
 }
 
 .days_2{
-  height: 33vmin;
+  height: 63vmin;
   pointer-events: none;
 }
 
 .days_3{
-  height: 42vmin;
+  height: 57vmin;
   pointer-events: none;
 }
 
 .days_4{
-  height: 23vmin;
+  height: 63vmin;
   pointer-events: none;
 }
 .days_5{
-  height: 65vmin;
+  height: 33vmin;
   pointer-events: none;
 }
 .notes{
-  height: 47vmin;
+  height: 50vmin;
   pointer-events: none;
 }
-.spills{
-  height: 50vmin;
+.tea{
+  height: 60vmin;
 }
 .air{
-  height: 70vmin;
+  height: 50vmin;
+  
+}
+.snake{
+  height: 40vmin;
   
 }
 @media (prefers-reduced-motion: no-preference) {

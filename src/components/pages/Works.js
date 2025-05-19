@@ -37,7 +37,7 @@ function Works() {
         <img src={sfpcscan1} className="sfpc" alt="logo" />  
         <img src={sfpcscan2} className="sfpc" alt="logo" />
         <br></br>
-    <video controls width="70%">
+    <video controls width="70%" poster="placeholder.png">
      
       <source src={jaiynvideo} type="video/mp4"
       />

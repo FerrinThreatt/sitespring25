@@ -8,9 +8,6 @@ function BrainStorm(){
  
         <>
 
- 
- 
-
         <iframe
     src="https://player.twitch.tv/?channel=jaiynx&parent=localhost&parent=jaiyn-red.vercel.app&muted=true"
     height="378"
