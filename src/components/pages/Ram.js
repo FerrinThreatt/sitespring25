@@ -21,11 +21,11 @@ function Ram() {
         <Link to="/stats">  stats </Link>
        <br></br><br></br>
               <img src={notes} className="notes" alt="logo" />  <span>&nbsp;</span><span>&nbsp;</span>
-              <img src={tea} className="tea" alt="logo" />  <span>&nbsp;</span><span>&nbsp;</span>
+              <img src={tea} className="tea" alt="logo" /> 
        
-         <video controls width="67%" className="air" poster="placeholder.png">
+         <video controls width="37%" className="air" poster="placeholder.png">
             
-             <source src={air} className-="air" type="video/mp4"
+             <source src={air} type="video/mp4"
              />
              Sorry, your browser doesn't support videos.
            </video><span>&nbsp;</span><span>&nbsp;</span>
