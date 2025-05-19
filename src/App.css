@@ -73,12 +73,3 @@ body{
   color: black;
 }
 
-
-.container {
-  position: relative;
-  overflow: hidden;
-  width: 50%;
-          left: 25%;
-
-}
-
