@@ -4,7 +4,7 @@ import notes  from '../../notes.PNG';
 import tea from '../../tea.jpeg';
 import air from '../../air.mp4';
 import snake from '../../snake.jpeg';
-import drowsy112426vid from '../../drowsy112426vid.mp4';
+import drowsy112426vidCOMP from '../../drowsy112426vidCOMP.mp4';
 
 function Ram() {
   return (
@@ -35,7 +35,7 @@ function Ram() {
 
  <video controls width="37%" className="air" poster="placeholder.png">
             
-             <source src={drowsy112426vid} type="video/mp4"
+             <source src={drowsy112426vidCOMP} type="video/mp4"
              />
              Sorry, your browser doesn't support videos.
            </video><span>&nbsp;</span><span>&nbsp;</span>
