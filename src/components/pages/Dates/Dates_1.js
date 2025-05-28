@@ -26,20 +26,7 @@ function Dates() {
         <Route path="ram" element={<Ram />} />
         <Route path="Works" element={<Works />} />
       </Routes>
-    <h4>㋡05.13.25 - 05.14.25 ㋡</h4>
-    <br></br><br></br>
    
-        <p style={{textAlign:'right'}}>Tuesday, May 13th &emsp;&emsp;</p>
-        <img src={thought} className="days_5" alt="logo" /> <span>&nbsp;</span><br></br><br></br>
-
-        <video controls width="70%" poster="placeholder.png">
-             
-              <source src={fools} type="video/mp4"
-              />
-              Sorry, your browser doesn't support videos.
-     </video>
-
-     <p>⋆˚꩜｡˚꩜｡˚꩜｡˚꩜｡˚꩜｡˚꩜｡</p>
 
     </>
   );
